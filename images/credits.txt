@@ -1,0 +1,18 @@
+Photographs are from Unsplash and were downloaded for local use.
+
+hero-1.jpg - Ozkan Guner: https://unsplash.com/photos/a-dentist-examining-a-patient-rRgjO2Y1g1E
+hero-2.jpg - Getty Images: https://unsplash.com/photos/modern-dental-office-with-chair-and-equipment-e7MJLM5VGjY
+hero-3.jpg - Ozkan Guner: https://unsplash.com/photos/a-dentist-working-on-a-patient-AWqHc49SU-c
+service-whitening.jpg - Kamal Hoseinianzade: https://unsplash.com/s/photos/teeth-whitening-dentist
+service-implants.jpg - Jonathan Borba: https://unsplash.com/s/photos/dental-implants
+service-braces.jpg - Atikah Akhtar: https://unsplash.com/s/photos/braces-orthodontics
+service-checkup.jpg - Caroline LM: https://unsplash.com/s/photos/dental-clinic
+about.jpg - Kari Bjorn Photography: https://unsplash.com/s/photos/dental-clinic
+
+New hero and service images are from Pexels and are included under the Pexels License:
+hero-new-1.jpg - SHVETS production: https://www.pexels.com/photo/female-dentist-doing-an-examination-on-her-elderly-patient-8413334/
+hero-new-2.jpg - Gustavo Fring: https://www.pexels.com/photo/dentists-working-with-client-in-clinic-5622016/
+service-root-canal.jpg - Pexels photo 4971514: https://images.pexels.com/photos/4971514/pexels-photo-4971514.jpeg
+service-implants-new.jpg - cottonbro studio: https://www.pexels.com/photo/close-up-shot-of-dental-implant-model-6502305/
+service-orthodontics-new.jpg - Diego Romero: https://www.pexels.com/photo/dentist-working-on-patient-teeth-with-brackets-19147369/
+service-cosmetic-new.jpg - Kaboompics: https://www.pexels.com/photo/a-boy-smiling-while-a-person-wearing-latex-gloves-is-holding-a-dental-shade-guide-6627284/
